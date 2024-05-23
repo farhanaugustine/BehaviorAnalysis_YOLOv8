@@ -1,0 +1,26 @@
+authors:
+  - family-names: Augustine
+    given-names: Farhan
+    orcid: "https://orcid.org/0000-0002-8348-6039"
+cff-version: 1.0.0
+date-released: "05-23-2024"
+identifiers:
+  - description: "This is the collection of archived snapshots of the latest release versions of BehaviorAnalysis_YOLOv8."
+    type: doi
+    value: 10.5281/zenodo.11264289
+  - description: "This is the archived snapshot of version 1.0.0 of the ."
+    type: doi
+    value: 10.5281/zenodo.11264289
+keywords:
+  - BehaviorAnalysis
+  - AnimalBehaviorResearch
+  - Open-FieldTestAnalysis
+  - T-MazeAnalysis
+  - ElevatedPlusMaze
+  - AnimalTracking
+license: 
+  - GPL-3.0
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/farhanaugustine/BehaviorAnalysis_YOLOv8/tree/main"
+title: "BehaviorAnalysis_YOLOv8"
+version: 1.0.0
