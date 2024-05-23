@@ -7,10 +7,7 @@ date-released: "05-23-2024"
 identifiers:
   - description: "This is the collection of archived snapshots of the latest release versions of BehaviorAnalysis_YOLOv8."
     type: doi
-    value: 10.5281/zenodo.11264289
-  - description: "This is the archived snapshot of version 1.0.0 of the ."
-    type: doi
-    value: 10.5281/zenodo.11264289
+    value: https://zenodo.org/doi/10.5281/zenodo.11264288
 keywords:
   - BehaviorAnalysis
   - AnimalBehaviorResearch
