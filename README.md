@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/785527342.svg)](https://zenodo.org/doi/10.5281/zenodo.10967360)
+
+
 # YoloV8_OFT_MultiROI
 
 ## Youtube Video Tutorial:
