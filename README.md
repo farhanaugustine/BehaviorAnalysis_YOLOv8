@@ -1,10 +1,10 @@
-[![DOI](https://zenodo.org/badge/785527342.svg)](https://zenodo.org/doi/10.5281/zenodo.10967360)
+[![DOI](https://zenodo.org/badge/803993618.svg)](https://zenodo.org/doi/10.5281/zenodo.11264288)
 
 
 # YoloV8_OFT_MultiROI
 
 ## Youtube Video Tutorial:
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/DydI37F5nVM/mq1.jpg?sqp=CNzbvbIG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGH8gEygfMA8=&rs=AOn4CLCV0SwmpztYASiPV1y7nti-o1h9rQ)](https://youtu.be/DydI37F5nVM)
+[![Single Animal Behavior Analysis (Yolov8)](https://i9.ytimg.com/vi_webp/DydI37F5nVM/mq1.webp?sqp=CKS7wLIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEygfMA8=&rs=AOn4CLDH58muj8QNINXxeh37t84fUyQtLA)](https://youtu.be/DydI37F5nVM)
 
 https://youtu.be/DydI37F5nVM
 
