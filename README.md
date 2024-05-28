@@ -1,3 +1,6 @@
+
+![Yolov8_Enteries_Exits_FullWorkflow](https://github.com/farhanaugustine/BehaviorAnalysis_YOLOv8/assets/54376988/15306884-2468-48a5-b88d-5920f759b032)
+
 [![DOI](https://zenodo.org/badge/803993618.svg)](https://zenodo.org/doi/10.5281/zenodo.11264288)
 
 
