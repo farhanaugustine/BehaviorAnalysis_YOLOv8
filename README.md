@@ -1,13 +1,17 @@
 
-![Yolov8_Enteries_Exits_FullWorkflow](https://github.com/farhanaugustine/BehaviorAnalysis_YOLOv8/assets/54376988/15306884-2468-48a5-b88d-5920f759b032)
 
 [![DOI](https://zenodo.org/badge/803993618.svg)](https://zenodo.org/doi/10.5281/zenodo.11264288)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CSRMkA-VkmCe49_9sIt_SwDQKexA5Fvw?usp=sharing)
 
+![Yolov8_Enteries_Exits_FullWorkflow](https://github.com/farhanaugustine/BehaviorAnalysis_YOLOv8/assets/54376988/15306884-2468-48a5-b88d-5920f759b032)
 
-# YoloV8_OFT_MultiROI
+# YoloV8_Single Animal Behavior Analysis with Open Field Example
 
 ## Youtube Video Tutorial:
-[![Single Animal Behavior Analysis (Yolov8)](https://i9.ytimg.com/vi_webp/DydI37F5nVM/mq1.webp?sqp=CKS7wLIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEygfMA8=&rs=AOn4CLDH58muj8QNINXxeh37t84fUyQtLA)](https://youtu.be/DydI37F5nVM)
+<a href="https://youtu.be/DydI37F5nVM">
+  <img src="https://i9.ytimg.com/vi_webp/DydI37F5nVM/mq1.webp?sqp=CICe1rIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEygfMA8=&rs=AOn4CLA1kLQAJsQQ01KUKjlfRBuE_Cfb5g" alt="Single Animal Behavior Analysis (Yolov8)" width="1000"/>
+</a>
+
 
 https://youtu.be/DydI37F5nVM
 
